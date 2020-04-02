@@ -21,11 +21,11 @@
 
 # Registers:
 ""1	LINE	0
-	>>>>>>> 38328ac6e24b9466590876dce42d3ba138bb71d7
+	beautifull code for my first real DIY website
 "2	LINE	0
 	# website
 "3	LINE	0
-	=======
+	=======ds
 "4	LINE	0
 	# castorrides git init
 "5	LINE	0
@@ -38,7 +38,7 @@
 	Hoi
 
 # File marks:
-'0  3  0  ~/README.md
+'0  5  0  ~/README.md
 '1  1  8  ~/README.md
 '2  1  0  ~/index.html
 '3  1  0  ~/.index
@@ -47,9 +47,10 @@
 '6  5  124  ~/.plan
 '7  1  0  ~/.plan
 '8  5  0  ~/index.html
+'9  5  0  ~/index.html
 
 # Jumplist (newest first):
--'  3  0  ~/README.md
+-'  5  0  ~/README.md
 -'  1  0  ~/README.md
 -'  1  0  ~/index.html
 -'  1  0  ~/.index
@@ -107,6 +108,7 @@
 -'  5  124  ~/.plan
 -'  1  79  ~/.plan
 -'  1  0  ~/.index
+-'  3  0  ~/README.md
 -'  1  0  ~/index.html
 -'  1  0  ~/.index
 -'  13  6  ~/index
@@ -145,15 +147,14 @@
 -'  5  124  ~/.plan
 -'  1  79  ~/.plan
 -'  5  124  ~/.plan
--'  1  79  ~/.plan
 
 # History of marks within files (newest to oldest):
 
 > ~/README.md
-	"	3	0
-	.	4	0
-	+	1	0
-	+	4	0
+	"	5	0
+	.	5	0
+	+	4	19
+	+	5	0
 
 > ~/index.html
 	"	1	0

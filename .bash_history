@@ -56,3 +56,31 @@ apropos index
 systemd.index
 vim index
 vim .index
+git status
+git -v
+git remote -v
+git push -a
+git pull
+ls
+git push
+git remote -v
+git status
+git add -A
+git remote -v
+git status
+git log
+git push -u master
+git push -u origin master
+git pull origin master
+less README.md
+vim README.md
+less README.md
+git status
+.viminfo
+less README.md
+vim README.md
+git add .
+git commit -m "resolved merge conflicts"
+git status
+git push -u origin master
+git pull 
